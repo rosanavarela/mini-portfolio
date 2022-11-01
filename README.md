@@ -1,2 +1,2 @@
-# mini-portfolio
-Meu Portfólio
+# Mini Portfólio
+Dê uma olhada pra me conhecer um pouco:)
